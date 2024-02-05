@@ -25,6 +25,6 @@ Contributions and feedback are encouraged. Report issues or submit pull requests
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md). Feel free to use, modify, and share the code as per the license terms.
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and share the code as per the license terms.
 
 Happy coding and exploring the world of AlphaZero! 🚀
